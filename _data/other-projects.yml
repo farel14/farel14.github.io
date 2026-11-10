@@ -1,3 +1,13 @@
+- name: Pokedex app
+  url: https://pokeapp-gules.vercel.app
+  code: https://github.com/farel14/pokeapp
+  description: A responsive pokedex view created with Next.js and integrated to 3rd party APIs.
+  used:
+    - thing: JavaScript
+    - thing: Next.js
+    - thing: PostgreSQL
+    - thing: Vercel
+
 - name: Sugoku App
   url: https://www.github.com/farel14/sugoku/tree/03-final
   code: https://www.github.com/farel14/sugoku/tree/03-final
